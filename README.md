@@ -10,4 +10,3 @@ These are the solutions to those problems.
 <li>Invoice System - Used to make invoices with incremental invoice numbers.</li>
 <li>Register Tool - Used to to keep track of deposits and expenses.  Has a running total.</li>
 </ul>
-****************************
