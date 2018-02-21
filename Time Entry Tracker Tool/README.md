@@ -1,4 +1,4 @@
-This is an Excel Time Tracker tool that I made to track an employees hours for specified work orders.
+This is an Excel Time Tracker tool that I made to track employees hours for specified work orders.
 
 Please see the pdf and images for a look into the excel file.  
 
